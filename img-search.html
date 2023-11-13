@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Search Engine</title>
+    <link rel="icon" href="search-svgrepo-com.svg">
+    <link rel="stylesheet" href="CSS/bootstrap.min.css">
+    <link rel="stylesheet" href="CSS/bootstrap.min.css.map">
+    <link rel="stylesheet" href="CSS/img-search.css">
+</head>
+
+<body>
+
+    <div class="parent w-100 h-100 ">
+        <h1 class="text-center mt-4">Image Search Engine</h1>
+
+        <div class="container m-auto">
+            <form action="/action_page.php">
+
+                <div class="m-auto mt-5 d-flex justify-content-center">
+                    <input type="search" class="form-control " placeholder="Search ...">
+
+
+                    <button type="submit" class="btn btn-primary ms-2">Submit</button>
+                </div>
+
+            </form>
+        </div>
+    </div>
+
+    <div class="container m-auto mt-4 row d-flex justify-content-center results">
+    </div>
+
+    <div class="container d-flex justify-content-center my-5">
+        <button class="btn btn-primary d-none show-more ">Show More</button>
+    </div>
+
+    <script src="JS/bootstrap.bundle.min.js"></script>
+    <script src="JS/bootstrap.bundle.min.js.map"></script>
+    <script src="JS/img-search.js"></script>
+</body>
+
+</html>
