@@ -3,8 +3,7 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-## [https://mahrous-gamal.github.io/Image-Search-Engine/)
-
+## [Website Demo](https://mahrous-gamal.github.io/Image-Search-Engine/)
 ![image](https://github.com/Mahrous-Gamal/Image-Search-Engine/assets/105131896/925f82a8-56ae-40fc-abb3-979c1d2bbfc3)
 
 ![image](https://github.com/Mahrous-Gamal/Image-Search-Engine/assets/105131896/12fe6038-0a63-426b-82c2-6f87b9a8323b)
